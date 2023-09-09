@@ -1,7 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
 
-
 local Window = OrionLib:MakeWindow({Name = "Mami Script V6", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 local Mami = Window:MakeTab({
